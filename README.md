@@ -1,1 +1,3 @@
 # whatsapp-autoservis-demo
+Besplatni interni demo WhatsApp AI asistenta za autoservise u Hrvatskoj (hipoteza ponude; Freelancer oglas je samo inspiracija). Status: kostur, nema koda, naredbe su TBD nakon odobrenog plana. n8n još nije postavljen.
+Tijek: grill-me -> to-spec -> PRD/arhitektura/plan/zadaci (model u T3 sa Zizijem) -> Architect validira -> Designer prije koda -> Zizi odobrava dizajn i plan -> gradnja jedan zadatak po grani. Kapacitet vlasnika je najmanje 17,5 sati tjedno (2,5 sata dnevno). Ukupni limit je 200 EUR mjesečno, uključujući postojeće pretplate 199 EUR (Codex 100, Gemini 22, Claude Pro 22, SuperGrok 55). Pretplata Gemini nije Gemini API. Trošak VPS-a i domene je nepoznat. Nema novih troškova bez odobrenja vlasnika.
